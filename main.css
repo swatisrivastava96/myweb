@@ -1,0 +1,99 @@
+
+
+
+body{
+	margin:0;
+}
+header{
+	background-color:black;
+	color:white;
+	padding:8px 10px 6px 40px;
+	height: 35px;
+}
+header h1{
+	display:inline;
+	font-family:'oswald',sans-serif;
+	font-weight:400;
+	font-size:32px;
+	float:left;
+	margin-top: 0px;
+	margin-right: 20px;
+}
+nav ul {
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+nav ul li{
+	display:inline-block;
+	list-style-type:none;
+	color:white;
+	float:left;
+	margin-left:22px;
+}
+nav ui li a{
+	color:white;
+	text-decoration:none;
+}
+#nav{
+	font-family:'Montserrat',sans-serif;
+}
+.homered{
+	background-color:red;
+	padding: 30px 22px 11px 10px;
+}
+.divider{
+	background-color:red;
+	height:5px;
+}
+.homeblack:hover{
+	background-color:blue;
+	padding: 30px 4px 11px 10px;
+}
+.image1{
+	background-image: url(test.jpg);
+	width:100%;
+	height:800px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin:0;
+	padding:0;
+}
+.homeimg{
+	font-family:'Raleway',sans-serif;
+	margin:0;
+	padding:9% 5% 0% 55%;
+	font-size:20px;
+	color:yellow;
+}	
+.homebeauty{
+	font-family:'Raleway',sans-serif;
+	margin:0.5% 0% 0% 55%;
+	font-size:55px;
+	color:white;
+	background-color:rgba(0,0,0,0.4);
+	display:inline-block;
+}
+.homepic{
+	font-family:'Oswald',sans-serif;
+	margin:0% 0% 0% 55%;
+	font-size:40px;
+	display:inline-block;
+}
+.homebutton{
+	margin:0% 0% 0% 55%;
+	background:yellow;
+	color:black;
+	border:none;
+	height:50px;
+	font-size:1.4em;
+	padding:0 1em;
+	cursor:pointer;
+	outline:none;
+	font-family:'Raleway',sans-serif;
+	font-weight:900;
+}
+	
+}
+
+	
